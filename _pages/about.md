@@ -12,7 +12,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人博士和硕士均毕业于[吉林大学](https://math.jlu.edu.cn).数学学院, 基础数学专业, 我博士导师是[史少云](https://math.jlu.edu.cn/info/1061/9135.htm)教授, 协同导师是[许志国](https://math.jlu.edu.cn/info/1061/15734.htm)教授和[黎文磊](https://math.jlu.edu.cn/info/1061/15732.htm)教授。本科毕业于[延边大学](https://math.ybu.edu.cn).理学院, 数学与应用数学专业。我已经发表两篇学术论文。
+本人博士和硕士均毕业于[吉林大学](https://math.jlu.edu.cn)数学学院, 基础数学专业, 我博士导师是[史少云](https://math.jlu.edu.cn/info/1061/9135.htm)教授, 协同导师是[许志国](https://math.jlu.edu.cn/info/1061/15734.htm)教授和[黎文磊](https://math.jlu.edu.cn/info/1061/15732.htm)教授。本科毕业于[延边大学](https://math.ybu.edu.cn)理学院, 数学与应用数学专业。我已经发表两篇学术论文。
 
 本人主要研究方向：
 - 动力系统
@@ -51,10 +51,9 @@ redirect_from:
 ### 中文
 ---
 
-- **许明星**，周冉.“三维 Lotka-Volterra 系统的双 Hamilton 结构”，吉林大学学报理学版，2019, 57（4）：773-778.(中文核心) [[网页]](https://dx.doi.org/10.11973/wsjc202204000)
+- **许明星**，周冉.“三维 Lotka-Volterra 系统的双 Hamilton 结构”，吉林大学学报理学版，2019, 57(4): 773-778.(中文核心) 
 
-- 牛艳秋，杨双羚，**许明星**.“一类三波作用模型的不变代数曲面，Hamilton 结构和无穷远动力行为”，吉林大学学报理学版，2019, 57（6）：1333-1338. (中文核心)[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021)  
-
+- 牛艳秋，杨双羚，**许明星**.“一类三波作用模型的不变代数曲面，Hamilton 结构和无穷远动力行为”，吉林大学学报理学版，2019, 57(6): 1333-1338. (中文核心)
 
 
 <span class='anchor' id='-ryjx'></span>
