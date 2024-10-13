@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "许明星"
-description              : "常微分方程与动力系统"
+description              : #"常微分方程与动力系统"
 repository               : "xumxing/xumxing.github.io"
 google_scholar_stats_use_cdn : false
 
