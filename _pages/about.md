@@ -63,6 +63,10 @@ redirect_from:
 - 牛艳秋，杨双羚，**许明星**.“一类三波作用模型的不变代数曲面，Hamilton 结构和无穷远动力行为”，吉林大学学报理学版，2019, 57(6): 1333-1338. (中文核心)
 
 
+<span class='anchor' id='-kyxm'></span>
+# 📝 科研项目
+
+
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项  
