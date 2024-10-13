@@ -21,7 +21,7 @@ redirect_from:
 
 
 # 🏢 工作
-- *2024.10 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>安徽大学, 数学学院, 讲师
+- *2024.10 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="23pt"></a>安徽大学, 数学学院, 讲师
   
 
 
