@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人博士和硕士均毕业于[吉林大学](https://math.jlu.edu.cn).数学学院, 基础数学专业, 我博士导师是[史少云](https://math.jlu.edu.cn/info/1061/9135.htm)教授, 协同导师是[许志国](https://math.jlu.edu.cn/info/1061/15734.htm)教授和[黎文磊](https://math.jlu.edu.cn/info/1061/15732.htm)教授。本科毕业于[延边大学](https://math.ybu.edu.cn).理学院, 数学与应用数学专业。我已经发表两篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+本人博士和硕士均毕业于[吉林大学](https://math.jlu.edu.cn).数学学院, 基础数学专业, 我博士导师是[史少云](https://math.jlu.edu.cn/info/1061/9135.htm)教授, 协同导师是[许志国](https://math.jlu.edu.cn/info/1061/15734.htm)教授和[黎文磊](https://math.jlu.edu.cn/info/1061/15732.htm)教授。本科毕业于[延边大学](https://math.ybu.edu.cn).理学院, 数学与应用数学专业。我已经发表两篇学术论文。
 
 本人主要研究方向：
 - 动力系统
