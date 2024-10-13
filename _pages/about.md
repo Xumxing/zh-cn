@@ -23,16 +23,16 @@ redirect_from:
 
 
 # 🏢 工作经历
-- 2024.10 - 至今:  <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="23pt"></a> 安徽大学, 数学学院, 讲师
+- 2024.10-至今:  <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/AHU_logo.svg" width="21pt"></a> 安徽大学("211"、“双一流”), 数学学院, 讲师
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-- 2020.09 - 2024.09:  <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> 吉林大学("985"), 数学学院, 理学博士
-- 2017.09 - 2020.06:  <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> 吉林大学("985"), 数学学院, 理学硕士
-- 2013.09 - 2017.06:  <a href="https://www.ybu.edu.cn/"><img class="svg" src="/images/YBU_logo.svg" width="23pt"></a> 延边大学("211"), 理学院, 理学学士
+- 2020.09-2024.09:  <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> 吉林大学("985"、“双一流”), 数学学院, 理学博士
+- 2017.09-2020.06:  <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.svg" width="23pt"></a> 吉林大学("985"、“双一流”), 数学学院, 理学硕士
+- 2013.09-2017.06:  <a href="https://www.ybu.edu.cn/"><img class="svg" src="/images/YBU_logo.svg" width="23pt"></a> 延边大学("211"、“双一流”), 理学院, 理学学士
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -71,7 +71,6 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术活动
-- 2019 年, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - 2023 年, “中国数学会奇异摄动专业委员会第十八届学术年会”，长春
 - 2021 年, 华东师范大学 “奇异摄动理论及应用” 暑期学校
 - 2020 年, 北京数学中心 “微分几何” 暑期学校
