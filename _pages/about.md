@@ -41,7 +41,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 学术论文
+# 📑 学术论文
 
 ### 英文
 ---
